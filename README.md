@@ -14,6 +14,7 @@ Figma design:
   - Incomplete, complete
 - Attributes:
   - Name (shown in all states)
+  - Background image (shown in all states)
   - Description (shown in incomplete state only)
   - Reward (shown in incomplete state only)
   - Button title (show in complete state only)
