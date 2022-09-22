@@ -16,6 +16,7 @@ Figma design:
   - Name (shown in all states)
   - Description (shown in incomplete state only)
   - Reward (shown in incomplete state only)
+  - Button title (show in complete state only)
 - Interactions:
   - click interaction on whole card
   - IF state IS complete => click interaction on button
@@ -31,7 +32,7 @@ QuestCard should reuse "Button" component
 - Figma
 
 # Steps to take
-We are providing you with an already existing codebase to run Storybook, with one supplied existing component.
+We are providing you with an already existing codebase to run Storybook, with one supplied existing component. The repo has all kinds of config files that are included to simulate an already existing environment that you will have to work in.
 
 ## Initialize
 1. Fork this repository privately (to avoid sharing your assignment with others)
