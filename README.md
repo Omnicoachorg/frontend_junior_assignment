@@ -36,8 +36,7 @@ QuestCard should reuse "Button" component
 We are providing you with an already existing codebase to run Storybook, with one supplied existing component. The repo has all kinds of config files that are included to simulate an already existing environment that you will have to work in.
 
 ## Initialize
-1. Fork this repository privately (to avoid sharing your assignment with others)
-2. Clone your forked repository locally
+1. Clone this repository privately (to avoid sharing your assignment with others)
 
 ## Setup and run
 1. `yarn install` to install dependencies
@@ -50,3 +49,4 @@ We are providing you with an already existing codebase to run Storybook, with on
 ## Finishing up
 6. Make sure your work is committed and pushed (in the style you wish to use) to your repository
 7. Share the finished solution with your contact at Omnicoach for review.
+8. Invite 'alienteavend'
